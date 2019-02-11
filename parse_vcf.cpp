@@ -14,9 +14,9 @@ int main() {
     int pathogenic = 0;
     int overall = 0;
 
-    std::ifstream read("data/clinvar_20190204.vcf");
-    std::ofstream benings_write("data/benings.tab");
-    std::ofstream pathogenic_write("data/pathogenic.tab");
+    std::ifstream read("data/vcf/clinvar_20190204.vcf");
+    std::ofstream benings_write("data/results/benings.tab");
+    std::ofstream pathogenic_write("data/results/pathogenic.tab");
 
     benings_write << "Chromosome\tPosition\tID\tFrom\tTo" << std::endl;
     pathogenic_write << "Chromosome\tPosition\tID\tFrom\tTo" << std::endl;
@@ -42,7 +42,6 @@ int main() {
             }
         }
     }
-//    str.find(str2) != string::npos
     read.close();
 
     std::ofstream write("vcf_info.txt");
