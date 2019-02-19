@@ -1,0 +1,67 @@
+Var1	Freq
+Affects	107
+Affects, association	1
+Affects, risk factor	2
+association	192
+association, protective	1
+association, risk factor	3
+Benign	32606
+Benign, association	1
+Benign, other	4
+Benign, risk factor	3
+Benign/Likely benign	13976
+Benign/Likely benign, Affects	2
+Benign/Likely benign, association	1
+Benign/Likely benign, drug response	1
+Benign/Likely benign, drug response, risk factor	1
+Benign/Likely benign, other	11
+Benign/Likely benign, protective	6
+Benign/Likely benign, protective, risk factor	1
+Benign/Likely benign, risk factor	19
+conflicting data from submitters	147
+Conflicting interpretations of pathogenicity	20530
+Conflicting interpretations of pathogenicity, Affects	2
+Conflicting interpretations of pathogenicity, Affects, association, drug response, other	1
+Conflicting interpretations of pathogenicity, Affects, association, risk factor	2
+Conflicting interpretations of pathogenicity, Affects, other	1
+Conflicting interpretations of pathogenicity, association	3
+Conflicting interpretations of pathogenicity, association, other, risk factor	2
+Conflicting interpretations of pathogenicity, drug response	5
+Conflicting interpretations of pathogenicity, other	23
+Conflicting interpretations of pathogenicity, other, risk factor	3
+Conflicting interpretations of pathogenicity, protective	2
+Conflicting interpretations of pathogenicity, risk factor	54
+drug response	325
+drug response, protective, risk factor	1
+drug response, risk factor	1
+Likely benign	82789
+Likely benign, drug response, other	2
+Likely benign, other	1
+Likely benign, risk factor	1
+Likely pathogenic	26735
+Likely pathogenic, association	1
+Likely pathogenic, drug response	8
+Likely pathogenic, other	3
+Likely pathogenic, risk factor	12
+no interpretation for the single variant	546
+not provided	10024
+other	1759
+Pathogenic	66061
+Pathogenic, Affects	11
+Pathogenic, association, protective	1
+Pathogenic, drug response	28
+Pathogenic, other	110
+Pathogenic, other, risk factor	1
+Pathogenic, protective	7
+Pathogenic, risk factor	37
+Pathogenic/Likely pathogenic	4002
+Pathogenic/Likely pathogenic, drug response	10
+Pathogenic/Likely pathogenic, other	13
+Pathogenic/Likely pathogenic, risk factor	25
+protective	33
+protective, risk factor	4
+risk factor	440
+Uncertain significance	198407
+Uncertain significance, drug response	11
+Uncertain significance, other	2
+Uncertain significance, risk factor	2

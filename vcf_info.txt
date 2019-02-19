@@ -1,3 +1,3 @@
-Overall number: 441049
-Benings number: 345680
-Pathogenic number: 41631
+Overall number: 192938
+Benings number: 19109
+Pathogenic number: 40883

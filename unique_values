@@ -1,0 +1,67 @@
+ 232 Affects
+   2 Affects, association
+   4 Affects, risk factor
+86957 Benign
+   2 Benign, association
+   9 Benign, other
+   8 Benign, risk factor
+28148 Benign/Likely benign
+   4 Benign/Likely benign, Affects
+   2 Benign/Likely benign, association
+   2 Benign/Likely benign, drug response
+   2 Benign/Likely benign, drug response, risk factor
+  23 Benign/Likely benign, other
+  12 Benign/Likely benign, protective
+   2 Benign/Likely benign, protective, risk factor
+  38 Benign/Likely benign, risk factor
+   1 ClinicalSignificance
+41151 Conflicting interpretations of pathogenicity
+   4 Conflicting interpretations of pathogenicity, Affects
+   2 Conflicting interpretations of pathogenicity, Affects, association, drug response, other
+   4 Conflicting interpretations of pathogenicity, Affects, association, risk factor
+   2 Conflicting interpretations of pathogenicity, Affects, other
+   6 Conflicting interpretations of pathogenicity, association
+   4 Conflicting interpretations of pathogenicity, association, other, risk factor
+  10 Conflicting interpretations of pathogenicity, drug response
+  46 Conflicting interpretations of pathogenicity, other
+   6 Conflicting interpretations of pathogenicity, other, risk factor
+   4 Conflicting interpretations of pathogenicity, protective
+ 108 Conflicting interpretations of pathogenicity, risk factor
+169656 Likely benign
+   4 Likely benign, drug response, other
+   2 Likely benign, other
+   2 Likely benign, risk factor
+54255 Likely pathogenic
+   2 Likely pathogenic, association
+  16 Likely pathogenic, drug response
+   6 Likely pathogenic, other
+  25 Likely pathogenic, risk factor
+143836 Pathogenic
+  23 Pathogenic, Affects
+   2 Pathogenic, association, protective
+  57 Pathogenic, drug response
+ 233 Pathogenic, other
+   2 Pathogenic, other, risk factor
+  14 Pathogenic, protective
+  86 Pathogenic, risk factor
+8018 Pathogenic/Likely pathogenic
+  20 Pathogenic/Likely pathogenic, drug response
+  26 Pathogenic/Likely pathogenic, other
+  50 Pathogenic/Likely pathogenic, risk factor
+409539 Uncertain significance
+  22 Uncertain significance, drug response
+   4 Uncertain significance, other
+   4 Uncertain significance, risk factor
+ 430 association
+   2 association, protective
+   6 association, risk factor
+ 499 conflicting data from submitters
+ 668 drug response
+   2 drug response, protective, risk factor
+   4 drug response, risk factor
+1108 no interpretation for the single variant
+20322 not provided
+4570 other
+  81 protective
+  11 protective, risk factor
+ 991 risk factor
